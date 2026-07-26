@@ -1,0 +1,28 @@
+{
+  "id": "bnsp-plc-automation",
+  "title": "BNSP Certified Industrial PLC Automation System",
+  "description": "Programmable Logic Controller (PLC) design, ladder logic development, and automation control loops for industrial manufacturing. Backed by BNSP Professional Certification.",
+  "repoUrl": "https://www.linkedin.com/in/tegarsukmaabiyasa/",
+  "liveUrl": "https://www.linkedin.com/in/tegarsukmaabiyasa/",
+  "techStack": ["PLC Ladder Logic", "BNSP Certification", "Automation Engineering", "Sensors & Actuators", "CX-Programmer"],
+  "structure": {
+    "root": "bnsp-plc-automation",
+    "children": [
+      {
+        "name": "plc_programs",
+        "type": "directory",
+        "children": [
+          { "name": "conveyor_sorting.cxp", "type": "file" },
+          { "name": "packaging_logic.opt", "type": "file" }
+        ]
+      }
+    ]
+  },
+  "images": [
+    {
+      "url": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
+      "alt": "Industrial PLC Automation",
+      "description": "Industrial control panel and PLC automation system"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "cnc-hardware-design",
+  "title": "3D Parametric Hardware & Wooden CNC Product Design",
+  "description": "Custom product design crafted using 3D CAD parametric modeling and executed via CNC router programming. Developed during engineering internship at Wooden Project.",
+  "repoUrl": "https://www.linkedin.com/in/tegarsukmaabiyasa/",
+  "liveUrl": "https://www.linkedin.com/in/tegarsukmaabiyasa/",
+  "techStack": ["Autodesk Fusion 360", "CNC Machine", "CAM Programming", "G-Code", "Product Design"],
+  "structure": {
+    "root": "cnc-hardware-design",
+    "children": [
+      {
+        "name": "cad_models",
+        "type": "directory",
+        "children": [
+          { "name": "product_body.f3d", "type": "file" },
+          { "name": "cnc_toolpath.gcode", "type": "file" }
+        ]
+      }
+    ]
+  },
+  "images": [
+    {
+      "url": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?auto=format&fit=crop&w=1200&q=80",
+      "alt": "CNC Hardware & Product Design",
+      "description": "3D Parametric CAD modeling and CNC manufacturing"
+    }
+  ]
+}

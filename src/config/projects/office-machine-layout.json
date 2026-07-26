@@ -1,0 +1,29 @@
+{
+  "id": "office-machine-layout",
+  "title": "Industrial Office Layout & Machine Drawing Portfolio",
+  "description": "Comprehensive engineering drawing portfolio featuring office spatial layouts, precise machine positioning drawings, Piping & Instrumentation Diagrams (P&ID), and electrical wiring schematics.",
+  "repoUrl": "https://www.linkedin.com/in/tegarsukmaabiyasa/",
+  "liveUrl": "https://www.linkedin.com/in/tegarsukmaabiyasa/",
+  "techStack": ["AutoCAD Architecture", "P&ID", "Electrical Drawing", "Machine Layout", "Technical Drafting"],
+  "structure": {
+    "root": "office-machine-layout",
+    "children": [
+      {
+        "name": "blueprints",
+        "type": "directory",
+        "children": [
+          { "name": "office_ground_floor.dwg", "type": "file" },
+          { "name": "machine_piping_PID.dwg", "type": "file" },
+          { "name": "electrical_schematic.dwg", "type": "file" }
+        ]
+      }
+    ]
+  },
+  "images": [
+    {
+      "url": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=1200&q=80",
+      "alt": "Office & Machine Layout Portfolio",
+      "description": "Engineering drawings and spatial planning portfolio"
+    }
+  ]
+}
